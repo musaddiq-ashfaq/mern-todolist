@@ -3,8 +3,9 @@ An app made using MERN Stack
 # Usage
 
 Clone this repository
-
-`git clone https://github.com/musaddiq-ashfaq/mern-todolist.git`
+```bash
+git clone https://github.com/musaddiq-ashfaq/mern-todolist.git
+```
 
 Navigate to Server directory
 
