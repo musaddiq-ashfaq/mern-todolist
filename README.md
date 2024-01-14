@@ -8,27 +8,35 @@ Clone this repository
 
 Navigate to Server directory
 
-`cd Server`
+```bash 
+cd Server
+```
 
 Install required packages
 
-`npm install`
+```bash 
+npm install
+```
 
 Run the server
-
-`npm start`
+```bash 
+npm start
+```
 
 For running react app, open another terminal and navigate to todo directory
-
-`cd todo`
+```bash
+cd todo
+```
 
 For installing packages
-
-`npm install`
+```bash 
+npm install
+```
 
 To start the application
-
-`npm start`
+```bash 
+npm start
+```
 
 # Images
 
