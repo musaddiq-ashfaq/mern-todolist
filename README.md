@@ -32,7 +32,11 @@ To start the application
 
 # Images
 
-![Image](Images/capture.png)
-![Image](Images/capture2.png)
-![Image](Images/capture3.png)
-![Image](Images/capture4.png)
+![Image](https://github.com/musaddiq-ashfaq/mern-todolist/blob/main/Images/Capture.PNG)
+
+![Image](https://github.com/musaddiq-ashfaq/mern-todolist/blob/main/Images/Capture2.PNG)
+
+![Image](https://github.com/musaddiq-ashfaq/mern-todolist/blob/main/Images/Capture3.PNG)
+
+![Image](https://github.com/musaddiq-ashfaq/mern-todolist/blob/main/Images/Capture4.PNG)
+
